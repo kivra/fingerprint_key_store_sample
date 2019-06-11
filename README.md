@@ -9,7 +9,7 @@ Usage
 Just Import the project into Android Studio and run it with gradle from Android Studio, it should deploy it to your device.
 
 ## License
-The KIVRA restclient library uses an [MIT license](http://en.wikipedia.org/wiki/MIT_License). So go ahead and do what
+The KIVRA Fingerprint Keystore sample uses an [MIT license](http://en.wikipedia.org/wiki/MIT_License). So go ahead and do what
 you want!
 
 Lots of fun!
